@@ -6,3 +6,10 @@
   + https://www.railstutorial.org/book
   + https://www.learnenough.com/ruby-on-rails-4th-edition-tutorial/beginning
   + https://drive.google.com/file/d/1_d6yY68uQeVss1xAkYtyyvIbPJtsKX6M/view?usp=sharing
+- Weekly Exercise:
+  + Week1: fizzbuzz, giai phuong trinh bac 2, so nguyen to
+  + Week2: chapter 1
+  + Week3: demo app
+  + Week4: chapter 3,4,5
+  + Week5: chapter 6,7,8
+  + Week6: chapter 9
