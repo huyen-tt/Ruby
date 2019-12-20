@@ -13,3 +13,7 @@
   + Week4: chapter 3,4,5
   + Week5: chapter 6,7,8
   + Week6: chapter 9
+  + Week 7: chapter 10, authorization
+  + Week 8: chapter 11, send mail
+  + Week 9: chapter 12, send reset password
+  + Week 10: chapter 13, 14, add microposts, following users
